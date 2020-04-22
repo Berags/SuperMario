@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Super Mario Bros in JAVA
+${licensePrefix}Progetto di Beragnoli Jacopo & Del Moro Jacopo
+<#if licenseLast??>
+${licenseLast}
+</#if>

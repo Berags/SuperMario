@@ -1,0 +1,11 @@
+Model\Quadratino.class
+Animazioni\MarioAnimations.class
+Animazioni\BlockAnimations.class
+Model\Mario.class
+View\PanelLivello.class
+Collisioni\GestoreCollisioniBlocchi.class
+Model\Test.class
+Controller\ListenerMario.class
+Controller\ThreadMario.class
+Model\LevelPane.class
+View\Livello.class
